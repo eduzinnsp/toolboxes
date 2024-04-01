@@ -5,7 +5,7 @@
 
 🚀 Automatic ToolBoxes generator, if you already have it, it ignores it and starts the system again.
 
-❌ No have proxy in version beta.
+❌ No have proxy support in version beta.
 
 #
 ✨ Discord Support: [Click Here](https://discord.gg/awsxu)
