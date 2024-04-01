@@ -27,10 +27,10 @@ class DiscordLootBoxes {
            const stringfied = JSON.stringify(req.data.opened_items).includes(id);
 
            if (stringfied) {
-            console.log(`Você já possui este item - [${id}]`) 
+            console.log(`You already own this item - [${id}]`) 
             return new DiscordLootBoxes();
            } else {
-            console.log(`Novo item desbloqueado - [${id}]`);
+            console.log(`New item unlocked - [${id}]`);
             return new DiscordLootBoxes();
            }
         }
